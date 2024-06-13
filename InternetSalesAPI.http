@@ -1,0 +1,6 @@
+@InternetSalesAPI_HostAddress = http://localhost:5100
+
+GET {{InternetSalesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
